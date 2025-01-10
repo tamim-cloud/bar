@@ -1,6 +1,7 @@
-import 'package:bar/home_screen.dart';
+import 'package:bar/car_serving_app.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const HomeScreen());
+  runApp(CarServingApp());
 }
+
